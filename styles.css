@@ -1,0 +1,14 @@
+body {
+  display: flex;
+  max-width: 100%;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-self: center;
+}
+
+.wrapper {
+  display: flex;
+  margin: 5%;
+  font-style: 'Helvetica' 'sans-serif'
+}
